@@ -1,0 +1,93 @@
+
+
+
+body{
+	background-color: lightcyan ;
+}
+
+li{font-weight: bold;
+
+
+}
+
+
+#Box1{
+
+background-color: red;
+position: relative; width: 150px;
+
+
+}
+
+#Framebox{
+       position: relative; width: 75px;       
+          
+
+
+}
+
+
+#Box2{
+
+background-color: purple;
+position: static; width: 100px;
+border: solid;
+
+
+
+}
+
+#yeet{
+	background-color: white;
+	font-family: cursive;
+}
+
+
+		
+h1{color: blue;
+			font-style: italic;
+	        font-weight: bold;
+
+
+
+}
+
+h3{
+	color: purple;
+}
+
+
+p{color: blue;
+font-family: Serif;
+
+
+}
+
+nav{color: Red;
+
+
+}
+
+form{
+	background-color: lightsalmon;
+	font-weight: bold;
+	border-style: solid;
+
+}
+
+input{
+
+}
+
+#dope:hover{
+	background-color: red;
+}
+
+
+
+
+
+
+
+</style>
+
